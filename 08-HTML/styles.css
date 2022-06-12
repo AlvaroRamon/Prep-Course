@@ -1,0 +1,81 @@
+h1 {
+	color: azure;
+	font-size: 50px;
+	}
+
+img {
+	width: 200px;
+	
+	}
+
+	#thirdDiv {
+		height: 400px;
+		width: 200px;
+		}
+	
+	#thirdDiv {
+		background-color: navajowhite;
+		}
+	
+	#spanId {
+			font-size: 18px;
+			}
+	
+	#spanId {
+			margin: 50px;
+			}
+	
+	#thirdDiv {
+			padding: 50px;
+			}
+	
+	#thirdDiv {
+			border: 3px solid burlywood; 
+			}
+	
+
+	/*Crédito adicional*/
+#main {
+	width: 600px;
+	margin: 0 auto; 
+	display: block;
+	text-align: center;
+  }
+
+	/*Crédito adicional*/
+
+  body {
+	background-image: url("https://i.pinimg.com/564x/0d/a7/53/0da7538099d95dbedeb6d90a9e49f897.jpg") 
+	
+}
+
+/*Crédito adicional*/
+.divClass{
+	display: block;
+	text-align: center;
+}
+
+/*Crédito adicional*/
+h3 {
+	color:azure;
+			
+	}
+
+/*Crédito adicional*/
+h4{
+	color: azure;
+}
+
+/*Crédito adicional*/
+span{
+	color: azure;
+}
+
+/*Crédito adicional*/
+#thirdDiv{
+	top: auto;
+	width: 600px;
+	margin: 0 auto; 
+	display: block;
+	text-align: center;
+}
